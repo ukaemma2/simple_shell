@@ -1,5 +1,6 @@
 #include "shell.h"
 #include <stdio.h>
+#include <stdlib.h>
 
 /**
  * _getline - this is the prompt and getline function for simple shell
