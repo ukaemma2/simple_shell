@@ -24,7 +24,7 @@
 ## 7. Simple shell 0.2.1
 * Simple shell 0.2 +
 
-## 8. Simple shell 0.4.1
+## 8. Simple shell 0.
 * Simple shell 0.4 +
 
 ## 9. setenv, unsetenv
@@ -38,5 +38,5 @@
 
 # Authors:
 ## Ukah Emmanuel Ogbonna
-## Marvelous Molokwu
+## Marvelous Molokwu Ifeyinwa
 
